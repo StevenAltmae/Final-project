@@ -1,1 +1,1 @@
-E-pood ja tutvustav veebileht rehvi müügi firmale.
+Webstore and homepage for a tire retailer. 
